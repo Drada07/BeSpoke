@@ -43,13 +43,13 @@ Progress Harian (Diupdate tiap hari)
 Daily Scrum
 (Deja Prayuda Nst):
 1. Semalam saya... (Hari pertama Scrum)
-2. Hari ini saya.. 
-3. Saya ada kendala di..
+2. Hari ini saya mengerjakan sprint backlog "Jelaskan Kitkat"
+3. Saya ada kendala di kurang mengertinya mengkonversi bahasa HTML5 ke bahasa jade
 
 (YAN HARDI MOTINGGO):
 1. Semalam saya... (Hari pertama Scrum)
-2. Hari ini saya.. 
-3. Saya ada kendala di..
+2. Hari ini saya mengerjakan slide "Apa itu android" dan "Sedikit sejarah Android"
+3. Saya ada kendala di kurang pahamnya saya di sintax HTML5
 
 (SYAH YUNIDAR):
 1.Semalam saya... (Hari pertama Scrum)
