@@ -1,7 +1,7 @@
 =======================
 INFORMASI UMUM
 
-Nama kelompok : Lyds
+Nama kelompok : Syd
 Judul Topik : Android
 Alamat Github : https://github.com/PraYuda/BeSpoke
 Alamat Trello : https://trello.com/b/hESxU0Cp/persentasi#
@@ -14,25 +14,20 @@ Anggota 2:
 Anggota 3:
 	Nama : SYAH YUNIDAR
 	NIM : 12.111.1931
-Anggota 4:
-	Nama : Lewi Susanti Sinaga
-	NIM : 12.111.2139
+
 =======================
 
 
 SPRINT
 ------
 Sprint 1: 
-26/5 - 28/5
+26/5 - 29/5
 Scrummaster: Deja Prayuda Nst (12.111.0022)
 
 Sprint 2:
 
 
 Sprint 3: 
-
-
-Sprint 4: 
 
 
 
@@ -55,8 +50,3 @@ Daily Scrum
 1.Semalam saya... (Hari pertama Scrum)
 2. Hari ini saya mengerjakan slide Jelaskan ICS
 3. Saya ada kendala di kurang pahamnya penggunaan sintaks HTML
-
-(Lewi Susanti Sinaga):
-1. Semalam saya... (Hari pertama Scrum)
-2. Hari ini saya.. 
-3. Saya ada kendala di..
