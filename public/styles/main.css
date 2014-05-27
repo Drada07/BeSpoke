@@ -221,16 +221,18 @@ li.bespoke-bullet-inactive {
   transition: width 0.6s ease;
   position: absolute;
   height: 100%;
-  background: #f00;
+  background: #f29408;
   -webkit-border-radius: 0 4px 4px 0;
   border-radius: 0 4px 4px 0;
 }
 .cover {
-  background: #00f;
+  background-image: url("android.jpg");
 }
-.emphatic,
-.emphatic .bespoke-slide {
+.emphatic {
   background: #fff;
+}
+.bespoke-slide {
+  background: url("android_wall.jpg");
 }
 pre {
   padding: 26px !important;
