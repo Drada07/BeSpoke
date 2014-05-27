@@ -4,7 +4,7 @@
 
 slide_width = 640px
 slide_height = 480px
-slide_background = #eaeaea
+slide_background = white
 
 slide_transition_length = .6s
 slide_transition_easing = ease
@@ -68,7 +68,7 @@ article
   margin-top: (slide_height / 2) * -1
   left: 50%
   margin-left: (slide_width / 2) * -1
-  background: slide_background
+  background: white
   padding: 40px
   border-radius: 0
   @media print
@@ -140,14 +140,15 @@ article
   transition: width .6s ease
   position: absolute
   height: 100%
-  background: #0089f3
+  background: red
   border-radius: 0 4px 4px 0
 
 // bespoke-state styles
-
+.cover
+  background: blue
 .emphatic,
 .emphatic .bespoke-slide
-  background: slide_background
+  background: white
 
 // prism styles
 
