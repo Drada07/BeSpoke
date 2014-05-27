@@ -47,11 +47,28 @@ Daily Scrum
 3. Saya ada kendala di kurang pahamnya saya di sintaks HTML5
 
 (SYAH YUNIDAR):
-1.Semalam saya... (Hari pertama Scrum)
+1. Semalam saya... (Hari pertama Scrum)
 2. Hari ini saya mengerjakan slide Jelaskan ICS
 3. Saya ada kendala di kurang pahamnya penggunaan sintaks HTML
 
 27/5 
+Daily Scrum
+(Deja Prayuda Nst):
+1. Semalam saya mengerjakan Slide Jelaskan Kitkat.
+2. Hari ini saya mengerjakan slide Jelaskan Jelly Bean, Penambahan gambar di slide kitkat, dan meng-edit CSS slide.
+3. Tidak ada masalah dalam pengerjaan.
+
+(YAN HARDI MOTINGGO):
+1. Semalam saya mengerjakan slide Apa itu Android dan slide sedikit sejarah Android.
+2. Hari ini saya mengerjakan editing pada slide jelaskan ICS, Penambahan gambar pada slide jelaskan ics, pengeditan background cover.
+3. Saya punya kendala di sintaks HTML5 tentang pengubahan warna background.
+
+(SYAH YUNIDAR):
+1. Semalam saya mengerjakan slide Jelaskan ICS.
+2. Hari ini saya mengerjakan editing pada slide ICS, resize gambar pada slide fitur ICS.
+3. Tidak ada masalah dalam pengerjaan.
+
+28/5 
 Daily Scrum
 (Deja Prayuda Nst):
 1. 
