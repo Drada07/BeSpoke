@@ -7,4 +7,5 @@ bespoke.from('article', {
   progress: true,
   state: true,
   forms: true
+  //keys: 'vertical'
 });
