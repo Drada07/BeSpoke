@@ -1,7 +1,7 @@
 =======================
 INFORMASI UMUM
 
-Nama kelompok : Syd
+Nama kelompok : SLYD
 Judul Topik : Android
 Alamat Github : https://github.com/PraYuda/BeSpoke
 Alamat Trello : https://trello.com/b/hESxU0Cp/persentasi#
@@ -14,6 +14,9 @@ Anggota 2:
 Anggota 3:
 	Nama : SYAH YUNIDAR
 	NIM : 12.111.1931
+Anggota 4:
+	Nama : Lewi Susanti Sinaga
+	NIM : 12.111.2139
 
 =======================
 
@@ -21,13 +24,18 @@ Anggota 3:
 SPRINT
 ------
 Sprint 1: 
-26/5 - 29/5
+26/5 - 28/5
 Scrummaster: Deja Prayuda Nst (12.111.0022)
 
 Sprint 2:
+29/5 - 31/5
+Scrummaster: Yan Hardi Motinggo (12.111.0863)
 
 
 Sprint 3: 
+
+
+Sprint 4: 
 
 
 
@@ -71,6 +79,28 @@ Daily Scrum
 28/5 
 Daily Scrum
 (Deja Prayuda Nst):
+1. Semalam Saya saya mengerjakan slide Jelaskan Jelly Bean, Penambahan gambar di slide kitkat, dan meng-edit CSS slide.
+2. Hari ini saya memperbaiki tata letak konten slide, dan menambahkan slide cara rooting dan flashing.
+3. Tidak ada masalah dalam pengerjaan.
+
+(YAN HARDI MOTINGGO):
+1. Semalam saya mengerjakan editing pada slide ICS, penambahan gambar pada slide ICS,pengeditan background cover
+2. Hari ini saya mengerjakan "apa itu flashing" dan "efek positif dan negatif dari flashing"
+3. Masalah yang saya dapat yaitu sulitnya merging hasil saya dengan anggota yg lain
+
+(SYAH YUNIDAR):
+1. semalam saya mengerjakan editing pada slide ics, resize gambar pada slide fitur ics
+2. hari ini saya mengerjakan slide rooting android
+3. tidak ada masalah dalam pengerjaan
+
+(Lewi Susanti Sinaga)
+1. Saya baru masuk tim pada hari ini
+2. hari ini saya mengerjakan slide custom roms
+3. kendalanya masih belum paham masalah coding 
+
+29/5 
+Daily Scrum
+(Deja Prayuda Nst):
 1. 
 2. 
 3. 
@@ -81,6 +111,11 @@ Daily Scrum
 3. 
 
 (SYAH YUNIDAR):
+1. 
+2. 
+3. 
+
+(Lewi Susanti Sinaga)
 1. 
 2. 
 3. 
