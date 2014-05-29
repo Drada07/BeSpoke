@@ -101,21 +101,21 @@ Daily Scrum
 29/5 
 Daily Scrum
 (Deja Prayuda Nst):
-1. 
-2. 
+1. Semalam saya memperbaiki tata letak konten slide, dan menambahkan slide cara rooting dan flashing.
+2. Hari ini saya
 3. 
 
 (YAN HARDI MOTINGGO):
-1. 
-2. 
-3. 
+1. Semalam saya mengerjakan "apa itu flashing" dan "efek positif dan negatif dari flashing"
+2. Hari ini saya mengerjakan slide "Android Freeze" dan slide "Tidak bisa mengistal aplikasi dari luar android"
+3. Tidak ada masalah dalam pengerjaan
 
 (SYAH YUNIDAR):
-1. 
-2. 
+1. Semalam saya mengerjakan slide rooting android
+2. Hari ini saya
 3. 
 
 (Lewi Susanti Sinaga)
-1. 
-2. 
-3. 
+1. Semalam saya mengerjakan slide custom roms
+2. Hari ini saya mengerjakan slide kegunaan benchmark
+3. Saya memiliki kendala dalam kurang mengertinya dalam menggunakan bahasa HTML
