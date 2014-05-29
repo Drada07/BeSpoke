@@ -102,8 +102,8 @@ Daily Scrum
 Daily Scrum
 (Deja Prayuda Nst):
 1. Semalam saya memperbaiki tata letak konten slide, dan menambahkan slide cara rooting dan flashing.
-2. Hari ini saya
-3. 
+2. Hari ini saya mengerjakan slide bootloop dan memperbaiki intro slide
+3. Tidak ada masalah dalam pengerjaan
 
 (YAN HARDI MOTINGGO):
 1. Semalam saya mengerjakan "apa itu flashing" dan "efek positif dan negatif dari flashing"
