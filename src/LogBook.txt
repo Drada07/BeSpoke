@@ -168,6 +168,50 @@ Daily Scrum
 2/6 
 Daily Scrum
 (Deja Prayuda Nst):
+1. Semalam saya mengerjakan slide 5 aplikasi media yang kami sarankan
+2. Hari ini saya menambah slide tentang jenis-jenis layar
+3. Tidak ada masalah dalam pengerjaan
+
+(YAN HARDI MOTINGGO):
+1. Semalam saya mengerjakan slide "Apa itu Google Play?"
+2. Hari ini saya mengerjakan mengedit,meringkas slide masalah pada android
+3. Tidak ada masalah dalam pengerjaan 
+
+(SYAH YUNIDAR):
+1. Semalam saya mengerjakan slide cara penggunaan google play
+2. Hari ini saya mengerjakan mengedit slide pengenalan android
+3. Bingung pengisian burndown chart
+
+(Lewi Susanti Sinaga)
+1. Semalam saya mengerjakan slide "Fungsi Google Play" dan memperbaiki slide
+2. Hari ini saya menghapus beberapa di slide google play
+3. sedikit kendala di node.js
+
+3/6
+Daily Scrum
+(Deja Prayuda Nst):
+1. 
+2. 
+3. 
+
+(YAN HARDI MOTINGGO):
+1. 
+2. 
+3. 
+
+(SYAH YUNIDAR):
+1. 
+2. 
+3. 
+
+(Lewi Susanti Sinaga)
+1. 
+2. 
+3. 
+
+4/6
+Daily Scrum
+(Deja Prayuda Nst):
 1. 
 2. 
 3. 
