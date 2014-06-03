@@ -190,9 +190,9 @@ Daily Scrum
 3/6
 Daily Scrum
 (Deja Prayuda Nst):
-1. 
-2. 
-3. 
+1. Semalam saya memperbaiki konten slide sebelumnya dan menambahkan slide jenis2 layar.
+2. Hari ini saya memperbaiki konten dan meringkas seluruh slide.
+3. Tidak ada masalah dalam pengerjaan. 
 
 (YAN HARDI MOTINGGO):
 1. Semalam saya mengedit, meringkas slide masalah pada android.
@@ -205,9 +205,9 @@ Daily Scrum
 3. Kendala pengisian pada burndown chart
 
 (Lewi Susanti Sinaga)
-1. 
-2. 
-3. 
+1. Semalam saya menghapus beberapa di slide google play
+2. Hari ini saya mengedit slide benchmark
+3. Kendalanya, saya harus mengedit kembali karna tidak mau tampil di localhost
 
 4/6
 Daily Scrum
