@@ -258,6 +258,10 @@ ul {
 li {
   margin-bottom: 12px;
 }
+.left li {
+  float: left;
+  width: 150px;
+}
 p {
   margin: 0 100px 12px;
   line-height: 22px;
