@@ -387,3 +387,72 @@ a {
   filter: alpha(opacity=10);
   z-index: 7;
 }
+.cardsbespoke-slide {
+  -webkit-transform-origin: 0 100% 0;
+  -moz-transform-origin: 0 100% 0;
+  -o-transform-origin: 0 100% 0;
+  -ms-transform-origin: 0 100% 0;
+  transform-origin: 0 100% 0;
+}
+.cardsback {
+  background-image: url("android.jpg");
+}
+.cardsbespoke-inactive {
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: alpha(opacity=0);
+}
+.cardsbespoke-before {
+  -webkit-transform: translateZ(40px) rotateY(-60deg) translateX(-400px) rotateZ(120deg);
+  -moz-transform: translateZ(40px) rotateY(-60deg) translateX(-400px) rotateZ(120deg);
+  -o-transform: translateZ(40px) rotateY(-60deg) translateX(-400px) rotateZ(120deg);
+  -ms-transform: translateZ(40px) rotateY(-60deg) translateX(-400px) rotateZ(120deg);
+  transform: translateZ(40px) rotateY(-60deg) translateX(-400px) rotateZ(120deg);
+}
+.cardsbespoke-after {
+  -webkit-transform: translate3d(50px, 0, -100px);
+  -moz-transform: translate3d(50px, 0, -100px);
+  -o-transform: translate3d(50px, 0, -100px);
+  -ms-transform: translate3d(50px, 0, -100px);
+  transform: translate3d(50px, 0, -100px);
+}
+.concavebespoke-slide {
+  -webkit-transform-origin: 50% 50% 400px;
+  -moz-transform-origin: 50% 50% 400px;
+  -o-transform-origin: 50% 50% 400px;
+  -ms-transform-origin: 50% 50% 400px;
+  transform-origin: 50% 50% 400px;
+}
+.concavebespoke-inactive {
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: alpha(opacity=0);
+}
+.concavebespoke-before {
+  -webkit-transform: rotateY(180deg);
+  -moz-transform: rotateY(180deg);
+  -o-transform: rotateY(180deg);
+  -ms-transform: rotateY(180deg);
+  transform: rotateY(180deg);
+}
+.concavebespoke-before-1 {
+  -webkit-transform: rotateY(90deg);
+  -moz-transform: rotateY(90deg);
+  -o-transform: rotateY(90deg);
+  -ms-transform: rotateY(90deg);
+  transform: rotateY(90deg);
+}
+.concavebespoke-after {
+  -webkit-transform: rotateY(-180deg);
+  -moz-transform: rotateY(-180deg);
+  -o-transform: rotateY(-180deg);
+  -ms-transform: rotateY(-180deg);
+  transform: rotateY(-180deg);
+}
+.concavebespoke-after-1 {
+  -webkit-transform: rotateY(-90deg);
+  -moz-transform: rotateY(-90deg);
+  -o-transform: rotateY(-90deg);
+  -ms-transform: rotateY(-90deg);
+  transform: rotateY(-90deg);
+}

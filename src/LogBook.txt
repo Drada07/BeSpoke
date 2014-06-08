@@ -276,5 +276,29 @@ Daily Scrum
 2. Hari ini saya Fitur Aplikasi Video Editing VidTrim di Android
 3. Tidak ada masalah saat mengerjakan
 
+7/6
+Daily Scrum
+(Deja Prayuda Nst):
+1. Semalam saya mengerjakan slide aplikasi penyimpanan data online.
+2. Hari ini saya menambahkan style slide.
+3. Tidak ada masalah dalam pengerjaan.
+
+(YAN HARDI MOTINGGO):
+1. Semalam saya mengerjakan ringkas slide 5 aplikasi media player yang kami sarankan
+2. Hari ini saya meringkas seluruh slide 
+3. Tidak ada masalah dalam pengerjaan.
+
+(SYAH YUNIDAR):
+1. Semalam saya mengerjakan Menambah slide aplikasi terbaik untuk keamanan android dan cara melacak android yang hilang
+2. Hari ini saya mengerjakan re-checking & re-correct align paragraf
+3. ada masalah saat mengubah kode html ke file.jade
+
+(Lewi Susanti Sinaga)
+1. Semalam saya mengerjakan Fitur Aplikasi Video Editing VidTrim di Android
+2. Hari ini saya mengerjakan Re-Checking & Re-Correct kalimat yang janggal
+3. ada msalah di folder public jadi saya tidak bisa nge-push 
+
+
+
 
 
